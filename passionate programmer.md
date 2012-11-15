@@ -23,7 +23,9 @@ knowlegeable and self-sufficcent,he gave me a simple recipe:
  1. dive into directory service
  2. get comfortable with a UNIX variant
  3. master a scripting language
+
 > My career since has been built on the foundation of those pieces of knowl- edge, all three of which are still completely relevant in everything I do.
+
 #####Be yourself's mentor
 * find a role model 
 * list the ten most important attributes of this model
