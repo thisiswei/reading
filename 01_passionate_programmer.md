@@ -1,4 +1,4 @@
-###[Passionate Programmer)(http://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/ref=la_B001K8RU90_1_2?ie=UTF8&qid=1353267774&sr=1-2) -- [Chad fowler](https://twitter.com/chadfowler)
+###[Passionate Programmer](http://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/ref=la_B001K8RU90_1_2?ie=UTF8&qid=1353267774&sr=1-2) -- [Chad fowler](https://twitter.com/chadfowler)
 
 
 ######nov/18/12:
