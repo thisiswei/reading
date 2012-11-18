@@ -1,4 +1,4 @@
-###(Passionate Programmer)[http://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/ref=la_B001K8RU90_1_2?ie=UTF8&qid=1353267774&sr=1-2] -- (Chad fowler)[https://twitter.com/chadfowler]
+###[Passionate Programmer)(http://www.amazon.com/Passionate-Programmer-Remarkable-Development-Pragmatic/dp/1934356344/ref=la_B001K8RU90_1_2?ie=UTF8&qid=1353267774&sr=1-2) -- [Chad fowler](https://twitter.com/chadfowler)
 
 
 ######nov/18/12:
@@ -27,6 +27,8 @@ realize I had said them
 ######Go independent
 * choose startup instead of big company
 * set a goal to land a contract,put yourself in the market in spare time
+
+
 #######curiosity is a strenth
 Mike Clark 
 > whenever I get comfortable,I know it's time to try something new 
