@@ -1,21 +1,20 @@
 ### New Programmer's survival manual 
 
-###### practices I can do :
-    write a program that read lines of comma-separated data from a
- file,splits them apart,and use them to create object
+##### practices I can do :
+######write a program that read lines of comma-separated data from a file,splits them apart,and use them to create object
 
-    parse Xml file and save it.
+######parse Xml file and save it.
    > It is very common task in industry,so it's useful to
    practice with loading and saving XML
 
-       what happens when there are no item in the list? a blank field
+    what happens when there are no item in the list? a blank field
        ,invalid characters
  
-      > build some test for manipulating the customer list and save it back
+   > build some test for manipulating the customer list and save it back
  to file, you can use Builder for ruby 
  
-    sukodu
-       read a sudoku grid from a file,with some cells filled,some
+#####sukodu
+    read a sudoku grid from a file,with some cells filled,some
    blank,solve it,print the result
    ( search easy sudoku) => (harder ones)
 
