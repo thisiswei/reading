@@ -1,18 +1,18 @@
+### New Programmer's survival manual 
+
 ###### practices I can do :
- * write a program that read lines of comma-separated data from a
+  write a program that read lines of comma-separated data from a
  file,splits them apart,and use them to create object
 
- * parse Xml file and save it.
+  parse Xml file and save it.
    > It is very common task in industry,so it's useful to
    practice with loading and saving XML
 
-   what happens when there are no item in the list?
-   a blank field
-   invalid characters
+     what happens when there are no item in the list? a blank field invalid characters
  
  > build some test for manipulating the customer list and save it back
  to file, you can use Builder for ruby 
- * sukodu
+  sukodu
    read a sudoku grid from a file,with some cells filled,some
    blank,solve it,print the result
    ( search easy sudoku) => (harder ones)
@@ -32,23 +32,26 @@ when naming:  their purpose => current|sum|previous|
 commentary :  /!-- this is a comment --/  
 > code should be clear and tell what it does
 instead,do this: 
-* what parameters and return values expected
-* TODO,FIXME  ( fix these before checking in)
-* copyright,license
-> match the style of anycode you're editing
+   what parameters and return values expected
+   TODO,FIXME  ( fix these before checking in)
+   copyright,license
+   match the style of anycode you're editing
 
 ###### Review code early and often
 start the reivew by test
-> nothing instills confidence in your code better than showing the tests
-> my favorite question: 'let me see the test'. if the response is blank
+  nothing instills confidence in your code better than showing the tests
+  my favorite question: 'let me see the test'. if the response is blank
 stare, the review is over.
->doesn't have to be fancy,wicked--just solid code,make sure people see it
+  doesn't have to be fancy,wicked--just solid code,make sure people see it
 on regular basis
 
 ###### why?
 >why choose this design
+
 >what data you have can approve the assumptions
+
 >how to prove or test that you implementation is correct
+
 >how much wood could it chuck per second if it could chuck wood
 
 > you use your development tool everyday,take a mental step back - the choice you made years ago may not be the best going forward
@@ -70,7 +73,6 @@ design must account for that
 -----------------
 ######nov/25/2012 
 
-### New Programmer's survival manual 
 
 ------------------------------------
 
