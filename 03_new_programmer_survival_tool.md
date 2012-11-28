@@ -15,8 +15,8 @@
  
 #####sukodu
     read a sudoku grid from a file,with some cells filled,some
-   blank,solve it,print the result
-   ( search easy sudoku) => (harder ones)
+    blank,solve it,print the result
+    ( search easy sudoku) => (harder ones)
 
 
 #####nov/28/2012 12:26pm
