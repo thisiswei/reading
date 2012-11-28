@@ -14,8 +14,7 @@
  to file, you can use Builder for ruby 
  
 #####sukodu
-    read a sudoku grid from a file,with some cells filled,some
-    blank,solve it,print the result
+    read a sudoku grid from a file,with some cells filled,some blank,solve it,print the result
     ( search easy sudoku) => (harder ones)
 
 
