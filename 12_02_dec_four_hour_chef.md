@@ -3,15 +3,15 @@
 ######(pretty much finished last night... ah ..it's more of a cook book)
 -------------------
 
- barry Ross
- shinjis
- Henk kraaijenhof 
- Juan Manuel 
- Blaise Pascal 
- senacca
- Ben Hogan's five lessons 
+* barry Ross
+* shinjis
+* Henk kraaijenhof 
+* Juan Manuel 
+* Blaise Pascal 
+* senacca
+* Ben Hogan's five lessons 
      most perfect how-to book i've ever read
-> 
+ 
 > Dr.Seuss The cat in the hat with only 236 different words. Green Eggs
 > and Ham with 50
  
