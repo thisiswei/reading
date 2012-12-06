@@ -1,6 +1,7 @@
 ### The war of [art](http://www.stevenpressfield.com/the-war-of-art/) 
   this is the shit!
 
+----
 ron shusett(a brilliant write and producer who also did alien and total recall)
 ----
 > some years ago I was as blocked as a calcutta sewer
@@ -9,94 +10,94 @@ ron shusett(a brilliant write and producer who also did alien and total recall)
 in my time and hit it with all I've got.All the count is that,for this day,for this session,I have overcome Resistance
 
 
-There's a secret that real writers know that wannabe writers don't,and the secret is this: It's not the writing part is
+> There's a secret that real writers know that wannabe writers don't,and the secret is this: It's not the writing part is
 hard.What's hard is sitting down to write.
 
-Most of us have two lives.The life we live,and the unlived life within us.
+> Most of us have two lives.The life we live,and the unlived life within us.
 
-Resistance is the most toxic force on the planet. It is the root of more unhappiness than poverty,disease,and erectile
+> Resistance is the most toxic force on the planet. It is the root of more unhappiness than poverty,disease,and erectile
 dysfunction
 
 
 ----
-Is that what it takes? Do we have to stare death in the face to make us stand up and confront Resistance?
+> Is that what it takes? Do we have to stare death in the face to make us stand up and confront Resistance?
 
 
-It was easier for Hilter to start World War II than it was for him to face a blank square of canvas.
+> It was easier for Hilter to start World War II than it was for him to face a blank square of canvas.
 
 
-Any activity whose aim is tighter abdominals.  In other words,any act that reject immediate gratification in favor of
+> Any activity whose aim is tighter abdominals.  In other words,any act that reject immediate gratification in favor of
 long-term growth,health,or integrity. Or, expressed another way, any act that derives from our higher nature instead of
 our lower.Any of these will elicit Resistance.
 
 
-Rule of thumb:The more important a call or action is to our soul's evolution,the more resistance we will feel toward
+> Rule of thumb:The more important a call or action is to our soul's evolution,the more resistance we will feel toward
 pursuing it.
 
-Henry Fonda was still throwing up before each stage performance,even when he was seventy-five.In other words,fear
+> Henry Fonda was still throwing up before each stage performance,even when he was seventy-five.In other words,fear
 dosen't go away.The warrior and the artist live by the same code of necessity,which dictates that the battle must be
 fought anew every day.
 
-Resistance's goal is not to wound or disable.Resistance aims to kill. Its target is the epicenter of our being:our
+> Resistance's goal is not to wound or disable.Resistance aims to kill. Its target is the epicenter of our being:our
 genius,our soul, the unique and priceless gift we were put on earth to give and that no one else has but us.Resistance
 means business.When we fight it,we are in war to the death.
 
-Resistance has no strength of its own.Evey ounce of juice it possesses comes from us.We feed it with power by our fear
+> Resistance has no strength of its own.Evey ounce of juice it possesses comes from us.We feed it with power by our fear
 of it.Master that fear and we conquer Resistance.
 
-The danger is greatest when the finish line is in sight.At this point,Resistance knows we're about to beat it. It hits
+> The danger is greatest when the finish line is in sight.At this point,Resistance knows we're about to beat it. It hits
 the panic button.It marshals one last assault and slams us with everything it's got.
 
 ----
-The highest treason a crab can commit is to make a leap for the rim of the bucket.
+> The highest treason a crab can commit is to make a leap for the rim of the bucket.
 
-The best thing you can do for that friend(and he'd tell you this himself,if he really is you friend) is to get over the
+> The best thing you can do for that friend(and he'd tell you this himself,if he really is you friend) is to get over the
 wall and keep motating.
 
-The best and only thing that one artist can do for another is to serve as an example and an inspiration.
+> The best and only thing that one artist can do for another is to serve as an example and an inspiration.
 
-Procrastination is the most common manifestation of resistance because it's the easist to rationlize.We don't tell
+> Procrastination is the most common manifestation of resistance because it's the easist to rationlize.We don't tell
 ourselves,"I'm never going to write my symphony." Instead we say,"I'm just going to start tomorrow...."
 
-The most pernicious aspect of procrastination is that it can become a habit.We don't just put off our lives today;we put
+> The most pernicious aspect of procrastination is that it can become a habit.We don't just put off our lives today;we put
 them off till our deathbed.
 
-Sometimes resistance takes the form of sex,or an obsessive preoccupation with sex. Why sex? Because sex provides
+> Sometimes resistance takes the form of sex,or an obsessive preoccupation with sex. Why sex? Because sex provides
 immediate and powerful gratification.When someone sleeps with us,we feel validated and approved of, even
 loved.Resistance gets a big kick out of that.It knows it has distracted us with a cheap,easy fix and kept us from doing
 our work.
 
-We get ourselves in trouble because it's cheap way to get attention.
+> We get ourselves in trouble because it's cheap way to get attention.
 
-Creating soup opera in our lives is a symptom of resistance. Why put in years of work designing a new software interface
+> Creating soup opera in our lives is a symptom of resistance. Why put in years of work designing a new software interface
 when you can get just as much attention by bringing home a boyfriend with a prison record.
 
 Our boss used to tell us: Invent a disease.Come up with the disease,he said,and we can sell the cure.
 
-We're doing exatly what TV commercials and pop materialist culture have been brainwashing us to do from birth.Instead of
+> We're doing exatly what TV commercials and pop materialist culture have been brainwashing us to do from birth.Instead of
 applying self-knowlege,self-disipline,delayed gratification and hard work,we simply consume a product.
 Many pedestrians have been maimed or killed at the intersection of Resistance and Commerce.
 
 ----
-Doctors estimate that seventy to eighty percent of their business is non-health-related.Peole aren't sick,they're
+> Doctors estimate that seventy to eighty percent of their business is non-health-related.Peole aren't sick,they're
 self-dramatizing.
 
-Casting yourself as a victim is the antithesis of doing your work.Don't do it .If you're doing it.Stop.
+> Casting yourself as a victim is the antithesis of doing your work.Don't do it .If you're doing it.Stop.
 
-Well,you think you're so clever and classless and free.Buy you're all fucking peasants as far as I can see.
+> Well,you think you're so clever and classless and free.Buy you're all fucking peasants as far as I can see.
 
-We know what the clan is; We know how to fit into the band and the tribe.What we don't know is how to be alone.We don't
+> We know what the clan is; We know how to fit into the band and the tribe.What we don't know is how to be alone.We don't
 know how to be free individuals.
 
-If you find yourself criticizing other people,you're probably doing it out of Resistance.When we see others begining to
+> If you find yourself criticizing other people,you're probably doing it out of Resistance.When we see others begining to
 live their authentic selves,it drives us crazy if we have not lived out our own.
 
-If you find yourself asking youself(and your friends),"Am I really a writer? Am I really an artist?" Chances are you
+> If you find yourself asking youself(and your friends),"Am I really a writer? Am I really an artist?" Chances are you
 are.
 
-Fear is good.Like self-doubt,fear is an indicator.Fear tells us what we have to do.
+> Fear is good.Like self-doubt,fear is an indicator.Fear tells us what we have to do.
 
-Remember our rule of thumb: The more scared we are of a working or calling,the more sure we acn be that we have to do
+> Remember our rule of thumb: The more scared we are of a working or calling,the more sure we acn be that we have to do
 it.
 
 Friends sometimes ask: "don't you get lonely sitting by yourself all day?" At first it seemed oddd to hear myself anwser
