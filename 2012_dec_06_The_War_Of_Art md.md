@@ -10,11 +10,12 @@
 in my time and hit it with all I've got.All the count is that,for this day,for this session,I have overcome Resistance
 
 
-> There's a secret that real writers know that wannabe writers don't,and the secret is this: It's not the writing part is
-hard.What's hard is sitting down to write.
+##### There's a secret that real writers know that wannabe writers don't,and the secret is this: It's not the writing part is hard.What's hard is sitting down to write.  
 
-> Most of us have two lives.The life we live,and the unlived life within us.
+----
+#### Most of us have two lives.The life we live,and the unlived life within us.
 
+----
 > Resistance is the most toxic force on the planet. It is the root of more unhappiness than poverty,disease,and erectile
 dysfunction
 
@@ -23,7 +24,7 @@ dysfunction
 > Is that what it takes? Do we have to stare death in the face to make us stand up and confront Resistance?
 
 
-> It was easier for Hilter to start World War II than it was for him to face a blank square of canvas.
+##### It was easier for Hilter to start World War II than it was for him to face a blank square of canvas.
 
 
 > Any activity whose aim is tighter abdominals.  In other words,any act that reject immediate gratification in favor of
@@ -31,8 +32,7 @@ long-term growth,health,or integrity. Or, expressed another way, any act that de
 our lower.Any of these will elicit Resistance.
 
 
-> Rule of thumb:The more important a call or action is to our soul's evolution,the more resistance we will feel toward
-pursuing it.
+##### Rule of thumb:The more important a call or action is to our soul's evolution,the more resistance we will feel toward pursuing it.
 
 > Henry Fonda was still throwing up before each stage performance,even when he was seventy-five.In other words,fear
 dosen't go away.The warrior and the artist live by the same code of necessity,which dictates that the battle must be
@@ -42,8 +42,7 @@ fought anew every day.
 genius,our soul, the unique and priceless gift we were put on earth to give and that no one else has but us.Resistance
 means business.When we fight it,we are in war to the death.
 
-> Resistance has no strength of its own.Evey ounce of juice it possesses comes from us.We feed it with power by our fear
-of it.Master that fear and we conquer Resistance.
+##### Resistance has no strength of its own.Evey ounce of juice it possesses comes from us.We feed it with power by our fear of it.Master that fear and we conquer Resistance.
 
 > The danger is greatest when the finish line is in sight.At this point,Resistance knows we're about to beat it. It hits
 the panic button.It marshals one last assault and slams us with everything it's got.
@@ -59,15 +58,14 @@ wall and keep motating.
 > Procrastination is the most common manifestation of resistance because it's the easist to rationlize.We don't tell
 ourselves,"I'm never going to write my symphony." Instead we say,"I'm just going to start tomorrow...."
 
-> The most pernicious aspect of procrastination is that it can become a habit.We don't just put off our lives today;we put
-them off till our deathbed.
+#####  The most pernicious aspect of procrastination is that it can become a habit.We don't just put off our lives today;we put them off till our deathbed.
 
 > Sometimes resistance takes the form of sex,or an obsessive preoccupation with sex. Why sex? Because sex provides
 immediate and powerful gratification.When someone sleeps with us,we feel validated and approved of, even
 loved.Resistance gets a big kick out of that.It knows it has distracted us with a cheap,easy fix and kept us from doing
 our work.
 
-> We get ourselves in trouble because it's cheap way to get attention.
+__We get ourselves in trouble because it's cheap way to get attention.
 
 > Creating soup opera in our lives is a symptom of resistance. Why put in years of work designing a new software interface
 when you can get just as much attention by bringing home a boyfriend with a prison record.
