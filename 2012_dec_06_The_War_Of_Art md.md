@@ -95,7 +95,8 @@ live their authentic selves,it drives us crazy if we have not lived out our own.
 > If you find yourself asking youself(and your friends),"Am I really a writer? Am I really an artist?" Chances are you
 are.
 
-> Fear is good.Like self-doubt,fear is an indicator.Fear tells us what we have to do.
+----
+##### Fear is good.Like self-doubt,fear is an indicator.Fear tells us what we have to do.
 
 > Remember our rule of thumb: The more scared we are of a working or calling,the more sure we acn be that we have to do
 it.
@@ -106,6 +107,7 @@ No. Then I realized that I was not alone; I was in the book; I was with the char
 > Not only do I not feel alone with my characters;they are more vivid and interesting to me thatn the people in my real
 life.
 
+----
 > What are we trying to heal,anyway? The athelete knows the day will never come when he wakes up pain-free.He has to play
 hurt.
 
@@ -121,7 +123,8 @@ three juicy rationalizations.They're more important than sex.
 > Defeating Resistance is like giving birth. It seems absolutely impossible until you remember that women have been
 pulling it off successfully,with support and without,for fifty million years.
 
-> It is one thing to study war and another to live the warrior's life.
+----
+##### It is one thing to study war and another to live the warrior's life.
 
 In my view,the amateur does not love the game enough.If he did,he would not pursue it as a sideline,distince from his
 'real' vocation.
@@ -141,6 +144,7 @@ overcome an alcoholic
 An hour passes.I'm warmer now, the pace has got my blood going.The years have taught me one skill:how to be miserable.I
 know how to shut up and keep humping. This is great asset because it's human,the proper role for a mortal.
 
+----
 The Marine Corps teaches you how to be miserable.This is invaluable for an artist.Marines love to be miserable.Marines
 derive a perverse satisfaction from having colder chow,crappier equipment,and higher casualty rates than any outfit of
 dogfaces,swab jockeys or flyboys,all of whom they despise.Why? Because these candy-asses don't know how to be miserable
@@ -148,12 +152,13 @@ dogfaces,swab jockeys or flyboys,all of whom they despise.Why? Because these can
 > He has to know how to be miserable. He has to love being miserable.He has to take pride in being more miserable than any
 soldier or swabbie or jet jockey.Because this is war,baby.And war is hell.
 
- Here I was,forty-two years old,divorced,childless,having given up all normal human pursuits to chase the dream of being
+> Here I was,forty-two years old,divorced,childless,having given up all normal human pursuits to chase the dream of being
 a writer;now I've finally got my name on a big-time Hollywood production starring Linda Hamilton,and what happend?I'm a 
 loser,a phony;my life is worthless,and so am I.My friend Tony Keppelman snapped me out of it by asking if I was gonna
 quit.Hell,no!"Then be happy.You're where you wanted to be,aren't you? So you're taking a few blows.That's the price for
 being in the arena and not on the sidelines.Stop complaining and be grateful."
 
+----
 > Resistance gets us to plunge into a project with ano overambitious and unrealistic timetable for its completion.It knows
 we can't sustain that level of intensity.We will hit the wall.We will crash.
 
@@ -179,20 +184,17 @@ to) but to handle himself, his insides, as sturdily and steadily as he can.
 are not the enemy.Resistance is the enemy.The battle is inside our own heads.We cannot let external criticism, even if
 it's true, fortify our internal foe. 
 
-All the warrior can give is his life; all the athlete can do is leave everything on the field.
+----
+##### All the warrior can give is his life; all the athlete can do is leave everything on the field.
 
-> I had been in Tinaseltown five years, had finished nine screenplays on spec, none of which had sold. Finally I got a
-meeting with a big producer. He kept taking phone calls, even as I pitched my stuff. He had one of those headset things,
-so he didn't even have to pick up a receiver; the calls came in and he took them. Finally one came that was personal.
-"would you mind?" he asked, indicating the door. "I need some privacy on this one." I exited. The door closed behind me.
-Ten minutes passed. I was standing out by the secretaries. Twenty more minutes passed. Finally the producer's door
-opened; he came out pulling on his jacket. "Oh, I'm so sorry!"
+##### I had been in Tinaseltown five years, had finished nine screenplays on spec, none of which had sold. Finally I got a meeting with a big producer. He kept taking phone calls, even as I pitched my stuff. He had one of those headset things, so he didn't even have to pick up a receiver; the calls came in and he took them. Finally one came that was personal.  "would you mind?" he asked, indicating the door. "I need some privacy on this one." I exited. The door closed behind me.  Ten minutes passed. I was standing out by the secretaries. Twenty more minutes passed. Finally the producer's door opened; he came out pulling on his jacket. "Oh, I'm so sorry!"
 
 > He had forgotten all about me.
 
 > I'm human. This hurt. I wasn't a kid either; I was in my forties, with a rap sheet of failure as long as your arm.
 
 
+----
 The professional keeps his eye on the doughnut and not on the hole. He reminds himself it's better to be in the arena,
 getting stomped by the bull, than to be up in the stands or out in the parking lot.
 
@@ -209,6 +211,7 @@ Because when we sit down day after day and keep grinding, something mysterious s
 motion by which, inevitably and infallibly, heaven comes to our aid. Unseen forces enlist in our cause; serendipity
 reinforces our purpose.
 
+----
 
 > We're facing dragons too. Fire-breathing griffins of the sould, whom we must outfight and outwit to reach the tresure of
 our self-in-potential and to release the maiden who is God's plan and destiny for ourselves and the answer to why we
@@ -221,14 +224,11 @@ then I get down to business.
 
 In my little house I had no TV. I never read a newspaper or went to a movie. I just work.
 
+----
 
 THE END.
 
-> I never did find a buyer for the book. Or the next one, either. It was ten years before I got the first check for
-something I had written and ten more before a novel, _The legen of Bagger Vance_, was actully published. But that moment
-when I first hit the keys to spell out THE END was epochal. I remember rolling the last page out and adding it to the
-stack that was the finished manuscript. Nobody knew I was done. Nobody cared. But I knew. I felt like a dragon I'd been
-fighting all my life had just dropped deal at my feet and gasped out its last sulfuric breath.
+##### I never did find a buyer for the book. Or the next one, either. It was ten years before I got the first check for something I had written and ten more before a novel, _The legen of Bagger Vance_, was actully published. But that moment when I first hit the keys to spell out THE END was epochal. I remember rolling the last page out and adding it to the stack that was the finished manuscript. Nobody knew I was done. Nobody cared. But I knew. I felt like a dragon I'd been fighting all my life had just dropped deal at my feet and gasped out its last sulfuric breath.  
 
 > Rest in peace, motherfucker.
 
@@ -298,13 +298,10 @@ sprit of God.
 
 
 
-We fear discovering that we are more than we think we are. More than our parents/children/teahcers think we are. We fear
-that we actually possess the talent that our still, small voice tells us. That we actually have the guts, the
-perseverance, the capacity. We fear that we truly can steer our own ship, plant our flag, reach out Promised Land. We
-fear this because, if it's true, than we become estranged from all we know. We pass through a membrane. We become
-monsters and monstrous.
+##### We fear discovering that we are more than we think we are. More than our parents/children/teahcers think we are. We fear that we actually possess the talent that our still, small voice tells us. That we actually have the guts, the perseverance, the capacity. We fear that we truly can steer our own ship, plant our flag, reach out Promised Land. We fear this because, if it's true, than we become estranged from all we know. We pass through a membrane. We become monsters and monstrous.
 
 
+----
 > Do you have kids?
 
 > Then you know that not one of them poped out as tabula rasa, a blank
@@ -325,10 +322,10 @@ we show up possessing already a highly refined and individuated soul.
 already are and become it.
 
 
-> The artist cannot look to others to validates his efforts or his callings. If you don't believe me, ask Van Gogh, who
-produced masterpiece after masterpiece and never found a buyer in his whole life.
+##### The artist cannot look to others to validates his efforts or his callings. If you don't believe me, ask Van Gogh, who produced masterpiece after masterpiece and never found a buyer in his whole life.  
 
 
+----
 > The art of creation is by definition territorial. As the mother-to-be bears her child within her, so the artist or
 innovator contains her new life. No one can help her give it birth. But neither does she need any help.
 
