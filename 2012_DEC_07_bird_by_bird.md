@@ -125,11 +125,11 @@ father, of course. But we both kept writing.
 > 
 > It reminds me that all I have to do is to write down as much as I can
 > see through a one-inch picture frame.
-> 
-> 
+ 
+ 
 ##### E.L.Doctorow once said that "writing a novel is like driving a car at night. You can see only as far as your headlights, but you can make the whole trip that way." You don't have to see where you're going. you don't have to see your destination or everything you will pass along the way. You just have to see two or three feet ahead of you. This is right up there with the best advice about writing, or life, I have ever heard.
-> 
-> 
+ 
+ 
 > Chesterton said, is the power of being cheerful in circumstances that we
 > know to be desperate. Writing can be a pretty desperate endeavor,
 > because it is about some of our deepest need: our need to be visible, to
