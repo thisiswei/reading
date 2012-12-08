@@ -133,7 +133,9 @@
 > spring, or friut in summer. Such are
 > diseases,deaths,calumnies,treacheries,and all which gives fools either
 > joy or sorrow.
+
 - 
+
 > I walk on in the path which is according to nature, till I fall down to
 > rest, breating out my last breath into that air I daily drew in,falling
 > into that earth whence my father derived his seeds,my mother her blood,
@@ -168,7 +170,7 @@
 
 - 
 
-Remember how he never quit any subject,till he had thoroughly examined
+> Remember how he never quit any subject,till he had thoroughly examined
 it, and understood it; and how he bore those who accused him unjustly,
 without making any angry returns; how he was ever calm without hurry;
 
@@ -176,10 +178,10 @@ without making any angry returns; how he was ever calm without hurry;
 #####Awake, and call yourself up; and, as you see, when you are fully roused,that these were but dream which disturbed you;
 
 - 
-what is not the interest of hive, is not the interest of bee.
-
-
-How many of those who entered the world along with me, are gone off
-before me?
+> what is not the interest of hive, is not the interest of bee.
+> 
+> 
+> How many of those who entered the world along with me, are gone off
+> before me?
 
 
